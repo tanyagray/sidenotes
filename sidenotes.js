@@ -11,7 +11,7 @@ License: MIT license (see LICENSE.md)
 *
 */
 
-(function(){
+window.Sidenotes || (window.Sidenotes = function (Reveal) {
 
 	/*
 	Show notes on slideshow load
@@ -52,4 +52,4 @@ License: MIT license (see LICENSE.md)
 	  	}
 	});
 
-})();
+}(Reveal));
