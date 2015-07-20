@@ -1,4 +1,5 @@
 /*
+*
 Author: Tanya Gray
 
 Sidenotes is a plugin for reveal.js which displays
